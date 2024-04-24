@@ -1,4 +1,4 @@
-#! /user/bin/env/ node
+#! /usr/bin/env node
 //This line is called a shabang, it tells the os to run it with Node.js
 
 //import the `inquirer` module, which is a command line interface for Node.js 
